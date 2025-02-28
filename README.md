@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Ronit's Portfolio
 
 ## 🚀 About Me
 Hi, I'm **Ronit**, a passionate Computer Science and Engineering (CSE) student in my junior year. I thrive on solving complex problems and developing innovative solutions across cybersecurity, blockchain, AI, and geospatial technologies. My work spans multiple domains, from vulnerability research to supply chain management, leveraging cutting-edge technologies to create impactful solutions.
