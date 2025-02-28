@@ -87,8 +87,7 @@ Hi, I'm **Ronit**, a passionate Computer Science and Engineering (CSE) student i
 - **Programming**: Python, JavaScript, C++, Solidity
 - **AI/ML**: TensorFlow, OpenCV, NLP, Deep Learning
 - **Blockchain**: Ethereum, Hyperledger, Smart Contracts
-- **Cybersecurity**: Wireshark,NMap,Angry IPScaner,Kali Linux <!--Fuzzing, Vulnerability Scanning, Digital Forensics -->
-<!--- **Geospatial Technologies**: QGIS, Cloud-Optimized GeoTIFFs, Remote Sensing-->
+- **Cybersecurity**: Wireshark,NMap,Angry IPScaner,Kali Linux <!--Fuzzing, Vulnerability Scanning, Digital Forensics --> <!--- **Geospatial Technologies**: QGIS, Cloud-Optimized GeoTIFFs, Remote Sensing-->
 - **Web & App Development**: Flask, React, Node.JS, ExpressJS, Gradio, Streamlit, Android Development(Java)
 
 ---
