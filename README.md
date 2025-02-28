@@ -43,7 +43,7 @@ Hi, I'm **Ronit**, a passionate Computer Science and Engineering (CSE) student i
 - Cybersecurity techniques and ethical hacking.
 
 ## 📫 How to reach me
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/ronit-p-girglani)
+- **LinkedIn**: [linkedin.com/in/ronit-p-girglani](https://linkedin.com/in/ronit-p-girglani)
 - **Email**: ronitgirglani18@gmail.com
 
 ## 😄 Pronouns
